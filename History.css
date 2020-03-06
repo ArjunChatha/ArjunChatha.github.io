@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+    background-color: aqua;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 2;
+
+}
+html {
+    background-color: skyblue;
+    text-align: justify;
+    
+}
+h1 {
+    font-family: fantasy;
+    text-align: center;
+    
+    
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+p {
+    font-family: fantasy;
+    color: blue;
+    text-align: center;
+    
+    
+}
